@@ -1,26 +1,23 @@
-import React from 'react';
+import React, {Component} from 'react';
 import logo from './logo.svg';
+import Header from './Components/Header';
+import SearchBar from "./Components/SearchBar";
+import Table from "./Components/Table";
 import './App.css';
+import {requestUsers} from './store/createStore';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+requestUsers();
+class App extends Component {
+  render() {
+    return (
+      <div>
+      <Header />
+      <SearchBar/>
+      <Table/>
+      </div>
+    );
+  }
+
 }
 
 export default App;

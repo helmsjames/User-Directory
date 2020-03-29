@@ -1,0 +1,9 @@
+.header {
+    border: 2px solid blue;
+    height: 80px;
+    text-align: center;
+}
+
+.header::after {
+    border-bottom: red 8px solid;
+}
