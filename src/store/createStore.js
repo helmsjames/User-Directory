@@ -11,7 +11,6 @@ function toDoReducer(state = [], action) {
     }
 }
 
-
 function requestUsers() {
     return new Promise((resolve, reject) => {
         axios.get("https://randomuser.me/api/?results=200&nat=us").then((response) => {

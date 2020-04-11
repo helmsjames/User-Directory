@@ -4,9 +4,7 @@ import Header from './Components/Header';
 import SearchBar from "./Components/SearchBar";
 import Table from "./Components/Table";
 import './App.css';
-import {requestUsers} from './store/createStore';
 
-requestUsers();
 class App extends Component {
   render() {
     return (

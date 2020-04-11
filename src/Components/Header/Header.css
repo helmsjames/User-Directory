@@ -1,9 +1,8 @@
 .header {
-    border: 2px solid blue;
-    height: 80px;
+    border-bottom: 5px solid rgb(204, 23, 23);
+    height: 140px;
     text-align: center;
-}
-
-.header::after {
-    border-bottom: red 8px solid;
+    background-color: rgb(4, 4, 63);
+    color: white;;
+    padding: 20px;
 }
