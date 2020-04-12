@@ -20,14 +20,14 @@ function SearchBar() {
     return (
         <div className="search-bar-container">
             <input
-            placeholder="Search"
+            placeholder="Employee last name"
             className="search-bar"
             id="search-input"
             onChange={handleChange}
             value={searchTerm}
             />
             <button onClick={handleSubmit} type="submit">
-                Submit
+                Search
             </button>
         </div>
     )

@@ -5,13 +5,14 @@ import getUsers from "../../Api";
 import axios from 'axios';
 // import getUsers from "../../Api";
 
+// grabbing the Table data
 class Table extends Component  {
     constructor(props) {
         super(props)
         this.state = {users: []};
 
     }
-
+    // api call to axios to return employee data
     componentDidMount() {
         console.log('get users')
         return axios.get("https://randomuser.me/api/?results=20&nat=us")
