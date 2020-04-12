@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import SearchBar from "./Components/SearchBar";
 import Table from "./Components/Table";
 import './App.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends Component {
   render() {

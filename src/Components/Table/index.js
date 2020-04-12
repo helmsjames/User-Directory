@@ -1,10 +1,8 @@
 import React, {Component} from "react";
 import "./table.css";
 import Row from "../Rows";
-import mockUsers from '../mock-data';
 import getUsers from "../../Api";
 import axios from 'axios';
-
 // import getUsers from "../../Api";
 
 class Table extends Component  {
