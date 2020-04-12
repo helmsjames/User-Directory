@@ -1,8 +1,9 @@
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    /* width: 100%; */
-    table-layout: fixed;
+    width: 100%;
+    table-layout: auto;
+    align-items: center;
 
   }
   

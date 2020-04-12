@@ -53,6 +53,8 @@ const sort = () => {
                 <th>Image</th>
                 <th>
                     <button onClick={sort}>Name</button>
+                    <i class="fas fa-sort" size="5px"></i>                   
+
                 </th>
                 <th>Phone</th>
                 <th>Email</th>

@@ -1,7 +1,12 @@
 .search-bar-container {
 height: 80px;
-background-color: rgba(248, 242, 242, 0.781);
+background-color: rgba(245, 245, 245, 0.918);
 text-align: center;
+display: block;
+margin: 0 auto;
+position: relative;
+width: 100%;
+padding: 20px;
 }
 
 .search-bar {
