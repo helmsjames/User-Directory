@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import Header from './Components/Header';
 import SearchBar from "./Components/SearchBar";
 import Table from "./Components/Table";
