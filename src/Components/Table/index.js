@@ -1,9 +1,8 @@
 import React, {Component} from "react";
 import "./table.css";
 import Row from "../Rows";
-import getUsers from "../../Api";
-import axios from 'axios';
 // import getUsers from "../../Api";
+import axios from 'axios';
 
 // grabbing the Table data
 class Table extends Component  {

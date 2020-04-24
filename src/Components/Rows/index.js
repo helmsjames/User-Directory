@@ -10,14 +10,12 @@ function Rows(props) {
     let searchTerm = props.searchTerm;
     let originalArray = props.users;
     let rows, sortedUsersArray;
-    let sortArrow, sortText;
+    let sortArrow;
     let searchedArray = [];
     if (!sortAscending) {
-        sortArrow = "fas fa-sort-up";
-        // sortText = 'Sort Ascending';
+        sortArrow = "fas fa-sort-up";        
     } else if (sortAscending) {
-        sortArrow = "fas fa-sort-down";
-        // sortText = 'Sort Descending';
+        sortArrow = "fas fa-sort-down";        
     }
     // created the sort feature where the up arrow sorts ascending
     function returnAscending(a, b) {
