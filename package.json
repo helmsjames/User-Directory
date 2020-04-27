@@ -4,7 +4,7 @@
   "engines": {
     "node": "12.14.1"
   },
-  "homepage": "https://github.com/helmsjames/User-Directory",
+  "homepage": "https://helmsjames.github.io/User-Directory",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
