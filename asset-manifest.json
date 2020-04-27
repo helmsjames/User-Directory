@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/helmsjames/User-Directory/static/css/main.38c628ad.chunk.css",
-    "main.js": "/helmsjames/User-Directory/static/js/main.f503d6f5.chunk.js",
-    "main.js.map": "/helmsjames/User-Directory/static/js/main.f503d6f5.chunk.js.map",
-    "runtime-main.js": "/helmsjames/User-Directory/static/js/runtime-main.9f430414.js",
-    "runtime-main.js.map": "/helmsjames/User-Directory/static/js/runtime-main.9f430414.js.map",
-    "static/js/2.7258b704.chunk.js": "/helmsjames/User-Directory/static/js/2.7258b704.chunk.js",
-    "static/js/2.7258b704.chunk.js.map": "/helmsjames/User-Directory/static/js/2.7258b704.chunk.js.map",
-    "index.html": "/helmsjames/User-Directory/index.html",
-    "precache-manifest.6ee78c81af0d662042c27c247075f100.js": "/helmsjames/User-Directory/precache-manifest.6ee78c81af0d662042c27c247075f100.js",
-    "service-worker.js": "/helmsjames/User-Directory/service-worker.js",
-    "static/css/main.38c628ad.chunk.css.map": "/helmsjames/User-Directory/static/css/main.38c628ad.chunk.css.map",
-    "static/js/2.7258b704.chunk.js.LICENSE.txt": "/helmsjames/User-Directory/static/js/2.7258b704.chunk.js.LICENSE.txt"
+    "main.css": "/User-Directory/static/css/main.38c628ad.chunk.css",
+    "main.js": "/User-Directory/static/js/main.a5ecc461.chunk.js",
+    "main.js.map": "/User-Directory/static/js/main.a5ecc461.chunk.js.map",
+    "runtime-main.js": "/User-Directory/static/js/runtime-main.c69bf5c6.js",
+    "runtime-main.js.map": "/User-Directory/static/js/runtime-main.c69bf5c6.js.map",
+    "static/js/2.7258b704.chunk.js": "/User-Directory/static/js/2.7258b704.chunk.js",
+    "static/js/2.7258b704.chunk.js.map": "/User-Directory/static/js/2.7258b704.chunk.js.map",
+    "index.html": "/User-Directory/index.html",
+    "precache-manifest.8137ff4552b56e0c96e729fdaa87ce0b.js": "/User-Directory/precache-manifest.8137ff4552b56e0c96e729fdaa87ce0b.js",
+    "service-worker.js": "/User-Directory/service-worker.js",
+    "static/css/main.38c628ad.chunk.css.map": "/User-Directory/static/css/main.38c628ad.chunk.css.map",
+    "static/js/2.7258b704.chunk.js.LICENSE.txt": "/User-Directory/static/js/2.7258b704.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f430414.js",
+    "static/js/runtime-main.c69bf5c6.js",
     "static/js/2.7258b704.chunk.js",
     "static/css/main.38c628ad.chunk.css",
-    "static/js/main.f503d6f5.chunk.js"
+    "static/js/main.a5ecc461.chunk.js"
   ]
 }
