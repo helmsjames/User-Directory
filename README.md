@@ -34,7 +34,7 @@ The user should be able to:
 
 
 ## Link to Deployed App
-https://stormy-everglades-24695.herokuapp.com/
+https://helmsjames.github.io/User-Directory/
 
 ## GitHub Repo:
  https://github.com/helmsjames/User-Directory 
